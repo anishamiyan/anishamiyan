@@ -1,7 +1,7 @@
 # 👋 Hello, I'm Anisha Miyan!
 
 ![Profile Views](https://komarev.com/ghpvc/?username=anishamiyan&color=blueviolet&style=flat-square)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anisha-miyan)](https://www.linkedin.com/in/anisha-miyan)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anisha-miyan-92883818a/)](https://www.linkedin.com/in/anisha-miyan-92883818a/)
 [![GitHub](https://img.shields.io/badge/-GitHub-grey?style=flat-square&logo=github&logoColor=white&link=https://github.com/anishamiyan)](https://github.com/anishamiyan)
 [![Email](https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white&link=mailto:miyana@uwindsor.ca)](mailto:miyana@uwindsor.ca)
 
